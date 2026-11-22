@@ -1,4 +1,4 @@
-## Interface: 120100, 120105
+## Interface: 120105
 ## Title: MBT Dev
 ## Notes: Development build of Majestic Beast Tracker
 ## Author: Vichob
